@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Vasu",
+        "phone": "1357924680",
+        "email": "vasu@gmail.com",
+        "address": "Hyderabad,Andhra pradesh"
+    },
+    {
+        "name": "Arjun",
+        "phone": "5678901234",
+        "email": "aruna77@gmail.com",
+        "address": "Erode,Tamil nadu"
+    },
+    {
+        "name": "Bala",
+        "phone": "0978653421",
+        "email": "bala01@gmail.com",
+        "address": "Coimbatore,Tamil nadu"
+    }
+]
